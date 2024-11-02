@@ -1,0 +1,7 @@
+DECLARE length AS REAL
+DECLARE width AS REAL
+INPUT length
+INPUT width
+DECLARE area AS REAL
+SET area TO length*width
+OUTPUT area
