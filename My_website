@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<title>Eve's Website</title>
+<link rel="shortcut icon" type="image/png" href="favicon.png"/>
+<style>
+.talyniscool {
+  margin: auto;
+  width: 700px;
+  padding: 30px;
+  background-color: rgba(255, 255, 255, 0.4);
+}
+body {
+  background-image: url('media/bg.png');
+  background-repeat: repeat;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 22px;
+}
+</style>
+<body>
+<div class="talyniscool">
+<img style=display:block;margin-left:auto;margin-right:auto; src="media/websitev2.gif/">
+<marquee>You may also know me as LenEnjoyer or modernScratch3 (MS3)</marquee> <br>
+Socials: <br>
+<a href="https://x.com/basedevetwitte7"><img src="media/twitter.png"></a>
+<a href="https://bsky.app/profile/bottom.monster"><img src="media/bluesky.png"></a>
+<a href="https://www.youtube.com/@evepreviouslyknownaslenenjoyer"> <img src="media/youtube.png"></a>
+<a href="https://open.spotify.com/user/2ybpn44qepw7tg6k3mm8h6k3o?si=2850cf2dbbb2457f"><img src="media/spotify.png"></a>
+<a href="https://en.pronouns.page/@e_ve_"><img src="media/pronounspage.png"></a>
+<a href="https://github.com/TheCoolerMS3/"><img src="media/github.png"></a>
+<a href="mailto:eve@bottom.monster"><img src="media/mail.png"></a> <br>
+Site: <br>
+<a href="logplayer.html"><img src="media/logplayer.png"></a>
+<a href="comments/"><img src="media/comments.png"></a>
+<a href="wallpapers/"><img src="media/wallpapers.png"></a>
+<a href="blog/"><img src="media/blog.png"></a>
+<a href="pokemon/"> <img src="media/pokemon.png"></a>
+<a href="flash/"><img src="media/flash.png"></a>
+<a href="commission/"><img src="media/commission.png"></a>
+<a href="randompage.html"><img src="media/randpage.png"></a><br>
+My projects: <br>
+<a href="iceos/"><img src="media/iceos.png"></a>
+<a href="mikuam/"><img src="media/mikuam.png"></a>
+<a href="fitbit/"><img src="media/fitbit.png"></a>
+<a href="dhilly/"><img src="media/dhilly.png"></a>
+<a href="https://gallery.fitbit.com/details/5049cf2d-61d5-47c3-92a4-b7f6858c0443"><img style=display:block;margin-left:auto;margin-right:auto; src="media/bfdionyowrist.png/"> </a>
+</div>
+<a href="https://bottom.monster"><img src="media/eve.png"></a>
+<a href="https://libreivan.com"><img src="https://libreivan.com/public/buttons/marchintosh.png"></a>
+<a href="https://nek0zyx.pages.gay"><img src="https://floofy.city/files/93c128f8-44ca-48a5-9cb2-4da6bc854a24"></a>
+<a href="https://greenwizard.neocities.org"><img src="https://greenwizard.neocities.org/greenbutton.png"></a> 
+</body>
