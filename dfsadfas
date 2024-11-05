@@ -1,0 +1,4 @@
+let hello = 0;
+while true {
+  hello = 0;
+}
