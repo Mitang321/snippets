@@ -1,0 +1,43 @@
+useEffect(() => {
+    gsap.set("#sdasc span", { top: "400px" });
+
+    gsap.fromTo(
+      ".aixms a",
+      {
+        opacity: 0,
+      },
+      {
+        opacity: 1,
+        ease: "power3.inOut",
+        duration: 0.6,
+        stagger: 0.1,
+      }
+    );
+
+    gsap.fromTo(
+      "#ruzds span",
+      {
+        top: "500px",
+      },
+      {
+        top: "0px",
+        ease: "power3.inOut",
+        duration: 1.4,
+        stagger: 0.03,
+        onComplete: () => {
+          gsap.fromTo(
+            "#sdasc span",
+            {
+              top: "500px",
+            },
+            {
+              top: "0px",
+              ease: "power3.inOut",
+              duration: 1.2,
+              stagger: 0.01,
+            }
+          );
+        },
+      }
+    );
+  }, []);
